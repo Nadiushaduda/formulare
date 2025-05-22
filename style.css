@@ -1,0 +1,17 @@
+body {
+    background-color: aquamarine;
+}
+
+form {
+    width: 30%;
+    margin: 0 auto;
+    /* background-color: beige; */
+}
+input {
+    border: none;
+    background-color: azure;
+    border-radius: 5px;
+    padding: 5px;
+    /* border-bottom: 2px solid blue; */
+    width: 90%;
+}
